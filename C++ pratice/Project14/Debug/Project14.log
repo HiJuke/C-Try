@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\C++\C++ pratice\Project14\Source.cpp(386,6): warning C4101: 's1': 未參考的區域變數
+E:\C++\C++ pratice\Project14\Source.cpp(387,18): warning C4101: 'S2': 未參考的區域變數
+  Project14.vcxproj -> E:\C++\C++ pratice\Project14\Debug\Project14.exe

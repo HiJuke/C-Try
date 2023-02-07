@@ -1,0 +1,2 @@
+E:\C++\C++ pratice\Project26\Debug\Project26.exe
+E:\C++\C++ pratice\Project26\Debug\Project26.pdb

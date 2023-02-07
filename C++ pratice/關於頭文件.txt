@@ -1,0 +1,25 @@
+------基礎頭文件 必要-------
+#include <iostream>
+
+--------字串頭文件----------
+#include <string>
+
+-------時間系統頭文件-------
+#include <ctime>
+
+----文件操作系統頭文件------
+#include <fstream>	
+
+-------STL 容器頭文件-------
+#include <vector>
+#include <deque>
+#include <stack>
+#include <queue>
+#include <list>
+#include <set>
+#include <map>
+
+--------算法頭文件----------
+#include <algorithm>
+#include <numeric>
+#include <functional>

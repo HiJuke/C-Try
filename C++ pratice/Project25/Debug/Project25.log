@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\algorithm(1310,1): error C2064: 詞彙不等於使用 1 引數的函式
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\algorithm(1310,1): message : 類別不會對採用適當數目引數的函式指標或函式參考，定義 'operator()' 或使用者定義的轉換運算子
+E:\C++\C++ pratice\Project25\Source.cpp(240): message : 請參考正在進行編譯的函式 樣板 具現化 '_OutIt std::transform<std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,std::logical_or<bool>>(const _InIt,const _InIt,_OutIt,_Fn)'
+          with
+          [
+              _OutIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,
+              _InIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,
+              _Fn=std::logical_or<bool>
+          ]

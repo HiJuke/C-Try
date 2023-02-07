@@ -1,0 +1,2 @@
+E:\C++\C++ pratice\Project16\Debug\Project16.exe
+E:\C++\C++ pratice\Project16\Debug\Project16.pdb

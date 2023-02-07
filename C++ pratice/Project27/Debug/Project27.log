@@ -1,0 +1,9 @@
+﻿  speechManager.cpp
+E:\C++\C++ pratice\Project27\speechManager.cpp(38,20): warning C4018: '<': signed/unsigned 不相符
+E:\C++\C++ pratice\Project27\speechManager.cpp(122,11): warning C4244: '正在初始化': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+E:\C++\C++ pratice\Project27\speechManager.cpp(287,20): warning C4018: '<': signed/unsigned 不相符
+  Project27.vcxproj -> E:\C++\C++ pratice\Project27\Debug\Project27.exe

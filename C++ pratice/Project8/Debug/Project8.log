@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\C++\C++ pratice\Project8\Source.cpp(113,17): warning C4269: 'p': 'const' 將以編譯器產生的預設建構函式自動地初始化資料，這會產生無法預期的結果
+  Project8.vcxproj -> E:\C++\C++ pratice\Project8\Debug\Project8.exe

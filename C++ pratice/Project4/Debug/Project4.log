@@ -1,0 +1,2 @@
+﻿  Source.cpp
+E:\C++\C++ pratice\Project4\Source.cpp(70,2): error C3892: 'v': 無法對 const 變數進行指定動作

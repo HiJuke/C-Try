@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\C++\C++ pratice\Project24\Source.cpp(103,37): warning C4018: '<': signed/unsigned 不相符
+E:\C++\C++ pratice\Project24\Source.cpp(110,37): warning C4018: '<': signed/unsigned 不相符
+E:\C++\C++ pratice\Project24\Source.cpp(117,37): warning C4018: '<': signed/unsigned 不相符
+  Project24.vcxproj -> E:\C++\C++ pratice\Project24\Debug\Project24.exe

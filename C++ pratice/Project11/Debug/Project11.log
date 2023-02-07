@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\C++\C++ pratice\Project11\Source.cpp(80): warning C4715: 'Calculator::getResult': 不是所有控制路徑都傳回值
+  Project11.vcxproj -> E:\C++\C++ pratice\Project11\Debug\Project11.exe
