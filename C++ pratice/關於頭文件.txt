@@ -1,5 +1,6 @@
 ------基礎頭文件 必要-------
 #include <iostream>
+#include <cstdio>
 
 --------字串頭文件----------
 #include <string>
